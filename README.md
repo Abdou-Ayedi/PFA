@@ -12,10 +12,13 @@
   Run `npm run dev` to start the Dashboard 
 
   To run the fastapi : 
+
   Run `cd backend`  ==> to be in app.py
+
   Run `python -m uvicorn app:app --reload` ==> lancer serveur fastapi 
 
-  if you have any question . Don't hesitate to Contact me 
+  if you have any question . Don't hesitate to Contact me
+   
   Abderrahmen Ayedi 
   
 
